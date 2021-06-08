@@ -1,4 +1,4 @@
-package com.example.soc_macmini_15.musicplayer;
+package com.example.hizkeel.musicplayer;
 
 import org.junit.Test;
 
